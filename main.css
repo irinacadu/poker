@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&display=swap');
+
+.mano{
+
+
+    font-family: Oswald;
+    text-align:center;
+    font-size: 5rem;
+
+}
+
+.pok{
+    width:100%;
+
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+
+.pok{
+    margin-top:-5rem;
+}
+th{
+    font-family: Oswald;
+    text-align:center;
+    font-size: 2rem;  
+    padding: 1rem;
+    color:white;
+    background-color:#C70039 ;
+    margin-right: 2rem;
+
+}
+.jugada{
+    display:flex;
+}
+caption{
+    font-family: oswald;
+    color:white;
+    background-color: #505049 ;
+    font-size:2rem;
+
+}
+
+span{
+    color: #DAE60B;
+}
+
+.human{
+    background-color:  #B5AE09;
+}
+.jugFin{
+
+    font-family: oswald;
+    color:white;
+    margin-top:-5rem;
+}
+td{
+    padding: 2rem;
+    background-color: #080808;
+    color:white;
+    border:5px white solid;
+}
+.numero{
+
+    display: flex;
+}
+
+.tabla{
+
+    margin-top:2.5rem;
+}
+.ncarta{
+
+    text-align:center;
+    font-size: 1rem;
+
+}
+
+input{
+    margin-top:2rem;
+}
+html{
+    background-color: #080808;
+}
+body{
+
+
+    height: 100%;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:5rem;
+    background-color: #080808;
+}
+
+.cnumero{
+
+    display: flex;
+    justify-content: center;
+    gap:2rem;
+    font-family: oswald;
+    align-items: center;
+    color:white;
+
+    font-weight: bolder;
+}
+
+
+.texto{
+    width:5rem;
+    height: 2rem;
+    font-size:1rem;
+    border-radius: 10px ;
+    border:none;
+
+}
+.boton{
+    width:5rem;
+    height: 2rem;
+    font-size:1rem;
+    font-family:oswald;
+    border-radius: 10px ;
+    border:none;
+    text-align: center;
+    text-transform: uppercase;
+    color:white;
+    background-color: #B5AE09;
+
+}
+
+.boton:hover{
+
+    background-color: #C70039;
+}
+
+.bot1{
+
+    width:5rem;
+    height: 2rem;
+    font-size:1rem;
+    font-family:oswald;
+    border-radius: 10px ;
+    border:none;
+    text-align: center;
+    text-transform: uppercase;
+    color:white;
+    background-color: #B5AE09;
+
+}
+
+.bot1:hover{
+
+    background-color: #C70039;
+}
+.texto:focus{
+    border:5px #C70039 solid;
+}
+
+
+.inumero{
+    align-self: center;
+    margin-top:2rem;
+    margin-left: -1rem;
+    font-size:1.5rem;
+    font-family: oswald;
+    text-transform:uppercase;
+}
+
+
+
+
